@@ -74,28 +74,51 @@ Who it is for
 Learning approach and mission
 
 📁 Project Structure
+
 Code-for-Beginners/
+
 │
+
 ├── index.html
+
 ├── Home.css
+
 │
+
 ├── HTML-Basics.html
+
 ├── HTML-Basics.css
+
 │
+
 ├── CSS-Basics.html
+
 ├── CSS-Basics.css
+
 │
+
 ├── HTML-CSS-Together.html
+
 ├── HTML-CSS-Together.css
+
 │
+
 ├── Practice-Section/
+
 │   ├── practice.html
+
 │   ├── practice.css
+
 │   └── practice.js
+
 │
+
 ├── About-Us.html
+
 ├── About-Us.css
+
 │
+
 └── README.md
 
 🎯 Who This Project Is For
@@ -120,15 +143,13 @@ Practice-focused content
 
 The idea is to build strong fundamentals first.
 
-🚀 Future Improvements (Optional)
+🚀 Future Improvements (In Progress)
 
 Add JavaScript basics
 
 More practice challenges
 
 Dark mode toggle
-
-Mobile responsiveness
 
 Progress tracking
 
