@@ -25,11 +25,15 @@ The goal is to help beginners move from plain HTML to styled, readable webpages.
 ---------------------------------------------------------------------------------------------------------------------------------
 
 🧱 Website Sections
+
+
 🏠 Home
 
 What is web development?
 
 Why HTML and CSS are important
+
+
 
 
 
@@ -43,6 +47,9 @@ Simple explanations and examples
 
 
 
+
+
+
 🎨 CSS Basics
 
 What CSS is
@@ -53,6 +60,9 @@ Internal vs External CSS
 
 
 
+
+
+
 🔗 HTML + CSS Together
 
 How CSS styles HTML
@@ -60,6 +70,9 @@ How CSS styles HTML
 Before and after styling explanation
 
 Why separation of structure and style matters
+
+
+
 
 
 
@@ -79,6 +92,11 @@ Instant feedback using checkmarks and crosses
 
 
 
+
+
+
+
+
 ℹ️ About Us
 
 Purpose of the website
@@ -87,7 +105,13 @@ Who it is for
 
 Learning approach and mission
 
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 📁 Project Structure
 
@@ -138,7 +162,13 @@ Code-for-Beginners/
 └── README.md
 
 
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 🎯 Who This Project Is For
@@ -151,7 +181,16 @@ Anyone curious about how websites are built
 
 No prior coding experience is required.
 
+
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 
 
 🧠 Learning Philosophy
@@ -167,7 +206,14 @@ Practice-focused content
 The idea is to build strong fundamentals first.
 
 
+
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 🚀 Future Improvements (In Progress)
@@ -178,9 +224,17 @@ More practice challenges
 
 Dark mode toggle
 
+Make it independent on Mobiles
+
 Progress tracking
 
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 📜 License
@@ -188,7 +242,13 @@ Progress tracking
 This project is created for learning and educational purposes.
 You are free to study, modify, and expand it.
 
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 🙌 Final Note
 
@@ -198,6 +258,10 @@ Practice makes you confident.
 Please check the "Readme-Files" For More Information.
 
 HAPPY CODING!
+
+
+
+
 
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
