@@ -1,4 +1,4 @@
-![Code For Beginners Banner](banner.png)
+![Code For Beginners Banner](Banner.png)
 
 
 
