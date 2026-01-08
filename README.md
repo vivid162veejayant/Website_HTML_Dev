@@ -2,7 +2,7 @@
 
 
 
-Code for Beginners
+                                                   Code for Beginners
 
 Code for Beginners is a simple educational website designed to help absolute beginners understand the fundamentals of HTML and CSS through clear explanations, examples, and hands-on practice.
 
