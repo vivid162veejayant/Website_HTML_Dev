@@ -224,7 +224,7 @@ More practice challenges
 
 Dark mode toggle
 
-Make it independent on Mobiles
+Make it Good on Mobiles
 
 Progress tracking
 
