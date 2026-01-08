@@ -4,7 +4,9 @@ Code for Beginners is a simple educational website designed to help absolute beg
 
 This project focuses on learning by doing, making web development easy, structured, and approachable.
 
-📌 What This Project Is About
+---------------------------------------------------------------------------------------------------------------------------------
+
+📌 What This Project Is About?
 
 This website explains:
 
@@ -20,12 +22,16 @@ Small challenges to build confidence step by step
 
 The goal is to help beginners move from plain HTML to styled, readable webpages.
 
+---------------------------------------------------------------------------------------------------------------------------------
+
 🧱 Website Sections
 🏠 Home
 
 What is web development?
 
 Why HTML and CSS are important
+
+
 
 📄 HTML Basics
 
@@ -35,6 +41,8 @@ Common HTML tags
 
 Simple explanations and examples
 
+
+
 🎨 CSS Basics
 
 What CSS is
@@ -43,6 +51,8 @@ Colors, fonts, and backgrounds
 
 Internal vs External CSS
 
+
+
 🔗 HTML + CSS Together
 
 How CSS styles HTML
@@ -50,6 +60,8 @@ How CSS styles HTML
 Before and after styling explanation
 
 Why separation of structure and style matters
+
+
 
 🧪 Practice Section (Try It Yourself)
 
@@ -65,6 +77,8 @@ Add a background color
 
 Instant feedback using checkmarks and crosses
 
+
+
 ℹ️ About Us
 
 Purpose of the website
@@ -72,6 +86,8 @@ Purpose of the website
 Who it is for
 
 Learning approach and mission
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 📁 Project Structure
 
@@ -121,6 +137,10 @@ Code-for-Beginners/
 
 └── README.md
 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
 🎯 Who This Project Is For
 
 Absolute beginners in web development
@@ -130,6 +150,9 @@ Students learning HTML and CSS
 Anyone curious about how websites are built
 
 No prior coding experience is required.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 
 🧠 Learning Philosophy
 
@@ -143,6 +166,10 @@ Practice-focused content
 
 The idea is to build strong fundamentals first.
 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
 🚀 Future Improvements (In Progress)
 
 Add JavaScript basics
@@ -153,10 +180,15 @@ Dark mode toggle
 
 Progress tracking
 
+---------------------------------------------------------------------------------------------------------------------------------
+
+
 📜 License
 
 This project is created for learning and educational purposes.
 You are free to study, modify, and expand it.
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 🙌 Final Note
 
@@ -166,3 +198,6 @@ Practice makes you confident.
 Please check the "Readme-Files" For More Information.
 
 HAPPY CODING!
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
